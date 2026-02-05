@@ -48,15 +48,22 @@ This repository contains Ansible configurations used to manage EC2 instances act
 ## 📂 Project Structure
 
 Ansible-Configuration-Management/
+
 │
 ├── inventory/
+
 │ └── hosts
+
 │
 ├── playbooks/
+
 │ └── (Ansible playbooks)
+
 │
 ├── screenshots/
+
 │ └── (proof of setup & results)
+
 │
 └── ansible.cfg
 
