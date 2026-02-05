@@ -1,0 +1,9 @@
+[web]
+web1 ansible_host=172.31.27.58
+web2 ansible_host=172.31.24.86
+
+[web:vars]
+ansible_user=ubuntu
+ansible_ssh_private_key_file=/root/.ssh/ansible.pem
+ansible_python_interpreter=/usr/bin/python3
+
