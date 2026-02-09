@@ -93,7 +93,8 @@ ansible_python_interpreter=/usr/bin/python3
 
 ---
 
-<img width="1366" height="768" alt="Screenshot 10" src="https://github.com/user-attachments/assets/f5209bb5-e167-4e1c-8eea-c2399aedd24d" />
+<img width="1366" height="768" alt="Screenshot 10" src="https://github.com/user-attachments/assets/eaef5a15-ca35-4a36-ae9f-a98c5f1f8e5f" />
+
 
 ## ⚙️ Ansible Configuration
 
