@@ -1,10 +1,9 @@
-
-# Ansible-Configuration-Management
+# Ansible Configuration Management Project
 
 This project demonstrates how to use **Ansible** for automated configuration and server management in an AWS environment.
 
 
-![Ansible Success] <img width="1366" height="768" alt="Screenshot 10" src="https://github.com/user-attachments/assets/849b654d-16af-4603-a04b-957a0144d115" /># Ansible Configuration Management Project
+![Ansible Success] <img width="1366" height="768" alt="Screenshot 10" src="https://github.com/user-attachments/assets/849b654d-16af-4603-a04b-957a0144d115" />
 
 
 ## 🎯 Objective
